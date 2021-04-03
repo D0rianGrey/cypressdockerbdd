@@ -1,0 +1,2 @@
+regular -> npm run cy:open
+headless -> npm run cy:run
